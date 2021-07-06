@@ -2,7 +2,7 @@
 ![Images/THMlogo.png](Images/THMlogo.png)
 
 ## Introduction
-Hi, I am spiderweb77, and I am a hacker on TryHackMe for about a month. Doing it has helped me a lot and I do not regret purchasing a year long subscription to them.
+Hi, I am spiderweb77, and I am a hacker on [TryHackMe](https://tryhackme.com/) for about a month. Doing it has helped me a lot and I do not regret purchasing a year long subscription to them.
 
 Recently a new path got release called Pre-Security. With a total of 15 rooms and an estimated completion time of 40 hours, it was made purely to get beginners started in hacking! Despite not being a beginner, I still decided to give it a try to see how well it was made and whether I still could learn anything from it. To my surprise, there were still things that I did not know and I am glad I decided to try it instead of simply ignoring it.
 
@@ -63,6 +63,9 @@ The first room, Windows Fundamentals 1 teaches you about the basic structure of 
 The last room is Windows Fundamentals 2 teaches you more on Active Directory and Domain Controllers. This would be important in knowing how to navigate through machines connected through a domain and also teaches you on the permissions and policies. It was a very inspiring room as I was not that familiar with Windows and these two rooms helped me out a lot!
 
 # Conclusion
-In conclusion, this room was really well made in giving a stepping stone for new hackers to integrate into the community. Even though I had already a few months of experience in TryHackMe, it was really enjoyable completing these rooms. Not to mention, I also learnt a lot from it! This would definitely help me in my journey towards getting OSCP! Currently, my goal is to complete beginner certifications such as EJPT and TryHackMe has really helped me in improving my CTF skills as well as hacking skills in general. This was a fun path to do and I am looking forward to more paths TryHackMe has to offer Also, you get a free certificate!
+In conclusion, this room was really well made in giving a stepping stone for new hackers to integrate into the community. Even though I had already a few months of experience in TryHackMe, it was really enjoyable completing these rooms. Not to mention, I also learnt a lot from it! This would definitely help me in my journey towards getting OSCP! Currently, my goal is to complete beginner certifications such as EJPT and TryHackMe has really helped me in improving my CTF skills as well as hacking skills in general. This was a fun path to do and I am looking forward to more paths TryHackMe has to offer Also, you get a free certificate! You can enroll by the following link https://tryhackme.com/path/outline/presecurity.
 ![Images/cert.png](Images/cert.png)
+
+
+
 ***
