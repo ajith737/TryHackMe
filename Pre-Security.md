@@ -7,18 +7,18 @@ Hi, I am spiderweb77, and I am a hacker on TryHackMe for about a month. Doing it
 Recently a new path got release called Pre-Security. With a total of 15 rooms and an estimated completion time of 40 hours, it was made purely to get beginners started in hacking! Despite not being a beginner, I still decided to give it a try to see how well it was made and whether I still could learn anything from it. To my surprise, there were still things that I did not know and I am glad I decided to try it instead of simply ignoring it.
 
 
-![pre_security_room](Images/pre1.png)
+![Images/pre1.png](Images/pre1.png)
 
 # Categories
 Pre-Security Learning Path consists of an introduction room and 4 categories. These categories are Network Fundamentals, How The Web Works, Linux Fundamentals and Windows Fundamentals.
 
 # Cyber Security Introduction
-![learn](images/learn.png)
+![learn](Images/learn.png)
 This category consists of 1 room introducing beginners to Cyber Security. It is very insightful and everyone should do this room first before trying out the others. It teaches you on the basics of hacking, and even shows a preview of web and networking.
 
 # Network Fundamentals
 
-![network](images/network.png)
+![network](Images/network.png)
 Network Fundamentals, a very useful category for understanding the basics of how networking works and how to exploit it. This category was very well done in ways that it split up the rooms evenly to ensure that beginners who want to learn networking would be able to understand how networking works easily.
 
 The first room, What is Networking? teaches you the fundamentals of computer networking. Beginners should attempt this room first before any others to understand the core of networking.
@@ -45,7 +45,7 @@ Following that, How websites work would be next. Doing this room was enjoyable a
 The last room under the Web category is Putting it all together. Just like its name, it implies putting all the knowledge and skills learnt together. This room allows you to demonstrate your newly obtained skills and apply them. This would requires you to have a good understanding of the previous modules that you had completed in this category, so make sure you have actually completed them. If you are still confused, please redo them to ensure that you do not miss out on anything!
 
 # Linux Fundamentals
-![linux](images/linux.png)
+![linux](Images/linux.png)
 Linux Fundamentals is an essential room that beginners would need to complete to start their journey as a hacker. Knowing how to use a Linux system is very essential, as Debian machines such as Kali or Ubuntu would be a necessity to be used for multiple hacking challenges or in a workplace. Placing this category under Pre-Security path was a very excellent move done by TryHackMe. This way, beginners will have a complete understanding on how Linux works and how to use them.
 
 Linux Fundamentals 1 starts you off by giving you some background history of Linux. This explains exactly why Linux is needed and how it can be useful. It then teaches you how to navigate through the Linux systems as well as use a few basic commands such as echo or ls. Overall, a great room to get you started on Linux!
