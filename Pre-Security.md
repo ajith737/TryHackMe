@@ -1,5 +1,5 @@
 # TryHackMe’s Pre-Security Learning Path
-![TryHackMe_Logo](images/THMlogo.png)
+![TryHackMe_Logo](./images/THMlogo.png)
 
 ## Introduction
 Hi, I am spiderweb77, and I am a hacker on TryHackMe for about a month. Doing it has helped me a lot and I do not regret purchasing a year long subscription to them.
@@ -7,7 +7,7 @@ Hi, I am spiderweb77, and I am a hacker on TryHackMe for about a month. Doing it
 Recently a new path got release called Pre-Security. With a total of 15 rooms and an estimated completion time of 40 hours, it was made purely to get beginners started in hacking! Despite not being a beginner, I still decided to give it a try to see how well it was made and whether I still could learn anything from it. To my surprise, there were still things that I did not know and I am glad I decided to try it instead of simply ignoring it.
 
 
-![pre_security_room](images/pre1.png)
+![pre_security_room](./images/pre1.png)
 
 # Categories
 Pre-Security Learning Path consists of an introduction room and 4 categories. These categories are Network Fundamentals, How The Web Works, Linux Fundamentals and Windows Fundamentals.
@@ -32,7 +32,7 @@ The last room in the networking category is Extending Your Network. This room ex
 
 
 # How The Web Works
-![web](images/web.png)
+![web](./images/web.png)
 
 How The Web Works dives down into the web category. It is a great category first start on understanding how the internet works. Doing this is a great way for beginners to get started on learning Web, although it is not really that detailed. This is not an issue though, as it is targeted at beginners who only have recently just started TryHackMe and it is sufficient enough in explaining how the internet works!
 
@@ -55,7 +55,7 @@ After completing the previous room, Linux Fundamentals 2 will then show you much
 Lastly, Linux Fundamentals 3 ends it off with much more complex but useful commands and tools. These would be essential in using Linux machines, as many of the commands taught in here are very useful. I would suggest everyone to complete these 3 rooms, even if you already know how to use Linux machines. You will never know whether you might learn a thing or two more!
 
 # Windows Fundamentals
-![windows](images/windows.png)
+![windows](./images/windows.png)
 The very last category in this Pre-Security Learning Path is Windows Fundamentals. This category teaches you what you need to know about the Windows System. Similar to the previous category about Linux, Windows is just another operating system that is more modernize and exploiting it might be a little harder. The two rooms listed in this category only teaches you the basics of Windows and how it works. This knowledge would be very useful in Securing Microsoft Windows and you need to understand it before starting to exploit it.
 
 The first room, Windows Fundamentals 1 teaches you about the basic structure of a Windows machine and how to navigate around it. It shows you how to use it and how to find key information about a window’s system such as going to system information. Some common applications such as control panel and task manager are shown also to give you a general gist of what it does and how it can be useful to you. A great room for beginners who have no clue on how to operate a windows machine.
@@ -64,5 +64,5 @@ The last room is Windows Fundamentals 2 teaches you more on Active Directory and
 
 # Conclusion
 In conclusion, this room was really well made in giving a stepping stone for new hackers to integrate into the community. Even though I had already a few months of experience in TryHackMe, it was really enjoyable completing these rooms. Not to mention, I also learnt a lot from it! This would definitely help me in my journey towards getting OSCP! Currently, my goal is to complete beginner certifications such as EJPT and TryHackMe has really helped me in improving my CTF skills as well as hacking skills in general. This was a fun path to do and I am looking forward to more paths TryHackMe has to offer Also, you get a free certificate!
-![cert](images/cert.png)
+![cert](./images/cert.png)
 ***
