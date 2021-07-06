@@ -1,5 +1,5 @@
 # TryHackMe’s Pre-Security Learning Path
-![TryHackMe_Logo](./images/THMlogo.png)
+![./images/THMlogo.png](./images/THMlogo.png)
 
 ## Introduction
 Hi, I am spiderweb77, and I am a hacker on TryHackMe for about a month. Doing it has helped me a lot and I do not regret purchasing a year long subscription to them.
