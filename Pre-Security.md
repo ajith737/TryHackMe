@@ -2,7 +2,7 @@
 ![Images/THMlogo.png](Images/THMlogo.png)
 
 ## Introduction
-Hi, I am spiderweb77, and I am a hacker on [TryHackMe](https://tryhackme.com/) for about a month. Doing it has helped me a lot and I do not regret purchasing a year long subscription to them.
+Hi, I am spiderweb77, and I am a hacker on [TryHackMe](https://tryhackme.com/) for about a month. Doing it has helped me a lot and I do not regret purchasing a subscription to them.
 
 Recently a new path got release called Pre-Security. With a total of 15 rooms and an estimated completion time of 40 hours, it was made purely to get beginners started in hacking! Despite not being a beginner, I still decided to give it a try to see how well it was made and whether I still could learn anything from it. To my surprise, there were still things that I did not know and I am glad I decided to try it instead of simply ignoring it.
 
